@@ -1,0 +1,106 @@
+{C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_wr_en_generator.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_wr_en_generator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_wr_en_generator
+
+Top level modules:
+	msrv32_wr_en_generator
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_alu.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_alu
+
+Top level modules:
+	msrv32_alu
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_wb_mux_sel_unit.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_wb_mux_sel_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_wb_mux_sel_unit
+
+Top level modules:
+	msrv32_wb_mux_sel_unit
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_integer_file.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_integer_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_integer_file
+
+Top level modules:
+	msrv32_integer_file
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_immediate_adder.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_immediate_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_immediate_adder
+
+Top level modules:
+	msrv32_immediate_adder
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_load_unit.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_load_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_load_unit
+
+Top level modules:
+	msrv32_load_unit
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_reg_block_1.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_reg_block_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_reg_block_1
+
+Top level modules:
+	msrv32_reg_block_1
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_imm_generator.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_imm_generator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_imm_generator
+
+Top level modules:
+	msrv32_imm_generator
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_reg_block_2.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_reg_block_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_reg_block_2
+
+Top level modules:
+	msrv32_reg_block_2
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_pc.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_pc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_pc
+
+Top level modules:
+	msrv32_pc
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_instruction_mux.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_instruction_mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_instruction_mux
+
+Top level modules:
+	msrv32_instruction_mux
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_store_unit.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_store_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_store_unit
+
+Top level modules:
+	msrv32_store_unit
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_branch_unit.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_branch_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_branch_unit
+
+Top level modules:
+	msrv32_branch_unit
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_load_unit_v2.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_load_unit_v2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_load_unit_v2
+
+Top level modules:
+	msrv32_load_unit_v2
+
+} {} {}} {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_decoder.v} {1 {vlog -work work -stats=none {C:/Users/user/Documents/Chip Lab/Lab/baaabbed5733ac7c8136dc5d27f84618/Verilog_labs/Project/msrv32_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_decoder
+
+Top level modules:
+	msrv32_decoder
+
+} {} {}}
